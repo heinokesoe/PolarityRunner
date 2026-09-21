@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d808c1939f62634bbffeae5b479b997, type: 3}
+  m_Name: Generation Settings
+  m_EditorClassIdentifier: 
+  m_LevelLength: -1
+  m_StartBlocksCount: 1
+  m_MiddleBlocksCount: -1
+  m_EndBlocksCount: 1
+  m_StartBlocks:
+  - {fileID: 114470893495785418, guid: 9a775b549d469f74196fb38cb84acf0b, type: 3}
+  m_MiddleBlocks:
+  - {fileID: 114259622553350070, guid: c07f66edcdd541d40b0e601dcce20742, type: 3}
+  - {fileID: 114634210047326798, guid: d6f19279df1a14b45a881bf136d25d2a, type: 3}
+  - {fileID: 114362099631458554, guid: b57aef71f258b074c9241d85be4936fb, type: 3}
+  - {fileID: 114787008004763082, guid: 2313e32de9b2f0c4fbf0d5d7fa7478b6, type: 3}
+  - {fileID: 114140439695782052, guid: d89492603b5ef0b44968fe7cbb6529be, type: 3}
+  - {fileID: 114546030562783916, guid: 5f0424de7d9fa9342a23732f3e037378, type: 3}
+  - {fileID: 114855586137282916, guid: 2d64712e7f51a2044b6538986806f5a7, type: 3}
+  - {fileID: 114581418709128076, guid: ae3df9c829e154046a799ed392b65a5a, type: 3}
+  - {fileID: 114469388096941680, guid: abc78284c3cce8d45be7b2d19bad3105, type: 3}
+  - {fileID: 114653847625888598, guid: 670fa9c695aab9c40a089656eaac35bf, type: 3}
+  - {fileID: 114837835571553444, guid: fe7e388630682094a9a1cd39c9169ff9, type: 3}
+  - {fileID: 114203244265761476, guid: 976413338dc4e794a87aa9910ce3a4e5, type: 3}
+  - {fileID: 114471952902856602, guid: 28b5a8028cc1b464dbf625ec31f00e5a, type: 3}
+  - {fileID: 114620694829996460, guid: 0983e63aa3847904aad91fb0009b7cdf, type: 3}
+  - {fileID: 114490593543241952, guid: 5febe23f5b0e58046be8b965ae251e23, type: 3}
+  - {fileID: 114601894619822566, guid: e3e2f45933978fb46bc321b3062cfe3b, type: 3}
+  m_EndBlocks: []
+  m_BackgroundLayers:
+  - name: Far
+    Blocks:
+    - {fileID: 114039302485626800, guid: 8c630272beabb42408e2a5270301f03c, type: 3}
+    - {fileID: 114503496299374618, guid: b0aae62819aec2f40a8b909f9f6c5f56, type: 3}
+    - {fileID: 114760492540714950, guid: b7afbc44c786ddc4b8e2457c2eb404c5, type: 3}
+    LastBlock: {fileID: 0}
+    CurrentX: -100
+    PreviousX: 0
+  - name: Middle
+    Blocks:
+    - {fileID: 114229173560377844, guid: 54a98931b8a1ab84bb12f7c08f7807f6, type: 3}
+    - {fileID: 114485977171879268, guid: eba8179e0f03b8449ae94002346e938d, type: 3}
+    - {fileID: 114351282465852212, guid: 485de872e37d7ae42b14f1b19a98ee84, type: 3}
+    LastBlock: {fileID: 0}
+    CurrentX: -100
+    PreviousX: 0
+  - name: Near
+    Blocks:
+    - {fileID: 114945993107822096, guid: 119d3952b607daa4c93a1aedafa500c9, type: 3}
+    - {fileID: 114387877640740416, guid: 6a02a60226bbd404797c13effe8497e7, type: 3}
+    - {fileID: 114783128830610864, guid: 38e0b4359d978c144bc8a4f9f9026e32, type: 3}
+    LastBlock: {fileID: 0}
+    CurrentX: -100
+    PreviousX: 0

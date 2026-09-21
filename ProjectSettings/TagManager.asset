@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Character
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ignore
+  - Ground
+  - Characters
+  - Parallax
+  - UI Back
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4012473827
+    locked: 0
+  - name: Cave Dirt
+    uniqueID: 3094949097
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 4222256023
+    locked: 0
+  - name: Chest
+    uniqueID: 1391700327
+    locked: 0
+  - name: Star Particles
+    uniqueID: 1687951149
+    locked: 0
+  - name: Enemies
+    uniqueID: 974041859
+    locked: 0
+  - name: Enemy Eye
+    uniqueID: 2596845139
+    locked: 0
+  - name: Characters
+    uniqueID: 2996270959
+    locked: 0
+  - name: Water
+    uniqueID: 2789743237
+    locked: 0
+  - name: Coin
+    uniqueID: 1341835211
+    locked: 0
+  - name: Particles
+    uniqueID: 2835551587
+    locked: 0
+  - name: Weather
+    uniqueID: 2547606433
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
