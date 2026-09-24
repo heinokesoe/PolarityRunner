@@ -29,6 +29,11 @@ namespace PolarityRunner.UI
             {
                 GameManager.Singleton.Init();
             });
+
+            ExitButton.SetButtonAction(() =>
+            {
+                GameManager.Singleton.ExitGame();
+            });
         }
 
         public override void UpdateScreenStatus(bool open)
