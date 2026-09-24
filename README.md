@@ -55,8 +55,8 @@ Once the files are added, display them here using the ready-to-copy Markdown in 
 
 | Name | ID |
 | --- | --- |
-| Hein Oke Soe | 661 |
-| Khine Khant | 661 |
+| Hein Oke Soe | 6611717 |
+| Khine Khant | 6611718 |
 
 ## Gameplay
 
